@@ -1,0 +1,16 @@
+{
+  "name": "fastuinsta",
+  "version": "1.0.0",
+  "description": "FastUptime Ürünüdür. Instagram Bio Değiştirici",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Can Adam",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^16.2.0"
+  }
+}
